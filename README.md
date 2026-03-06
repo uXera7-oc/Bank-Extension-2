@@ -147,7 +147,6 @@ This extension builds upon earlier banking projects by adding:
 Special thanks to:
 - **Professor Abouhodhoud**
 - **Programming Advices**
-- **Berry 🍓** – Thank you for your encouragement and support.
 
 ---
 
